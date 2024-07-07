@@ -24,7 +24,7 @@ qrcode
 pytz
 future==1.0.0
 search_engine_parser
-py-tgcalls==2.0.1
+py-tgcalls==2.0.2
 pykeyboard
 pyshorteners
 pyrogram==2.0.106
@@ -45,4 +45,4 @@ git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.9
 httpx==0.27.0
 gpytranslate
-openai==1.30.5
+openai==1.34.0
